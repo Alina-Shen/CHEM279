@@ -1,0 +1,22 @@
+start steepest descent
+Initial energy: -0.26092
+Stepsize for central difference is:0.0001;Initial stepsize for steepest descent is:0.3;Threshold for convergence in force is:0.01
+Analytical Force
+  -0.0718  -0.0718   0.1436
+   0.1039  -0.1039        0
+        0        0        0
+Forward Difference Force
+  -7.1807e-02  -7.1807e-02   1.4362e-01
+   1.0393e-01  -1.0392e-01   8.4183e-06
+  -1.0183e-06  -1.0183e-06  -1.9947e-06
+Central Difference Force
+  -0.0718  -0.0718   0.1436
+   0.1039  -0.1039        0
+        0        0        0
+Start steepest descent with central difference force.
+Total iterations: 231
+Final energy: -1.587e+01
+Optimized structure:
+79(-0.348129, -1.47548, 0)
+79(-0.348129, 1.47548, 0)
+79(-2.90374, 0, 0)

@@ -1,0 +1,32 @@
+Nuclear Repulsion Energy is 89.21769391 eV.
+Electron Energy is -602.1946427 eV.
+Suv_RA (A is the center of u)
+        0   0.3446  -0.1865        0        0  -0.3446        0        0        0        0   0.1865        0        0        0        0        0        0        0        0        0        0        0        0        0        0
+        0        0        0   0.2129        0        0        0        0        0        0        0        0        0        0        0  -0.2129        0        0        0        0        0        0        0        0        0
+        0        0        0        0   0.2129        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0  -0.2129        0        0        0        0
+gammaAB_RA
+        0   5.1381  -5.1381        0
+        0        0        0        0
+        0        0        0        0
+gradient (Nuclear part)
+   48.7528  -48.7528
+         0         0
+         0         0
+gradient (Electron part)
+  -45.8261   45.8261
+         0         0
+         0         0
+gradient
+   2.9267  -2.9267
+        0        0
+        0        0
+
+If I use finite difference, change the x coordinate of second atom:
+The molecule in file ../sample_input/HO.txt has energy -512.976949
+Nuclear Repulsion Energy is 89.21764515 eV.
+Electron Energy is -602.1946883 eV.
+The molecule in file ../sample_input/HO.txt has energy -512.977043
+Nuclear Repulsion Energy is 89.21774266 eV.
+Electron Energy is -602.19478 eV.
+The molecule in file ../sample_input/HO.txt has energy -512.977037
+The molecule has gradient -2.926824

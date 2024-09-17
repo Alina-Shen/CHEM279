@@ -1,0 +1,32 @@
+Nuclear Repulsion Energy is 190.2693896 eV.
+Electron Energy is -728.2915612 eV.
+Suv_RA (A is the center of u)
+        0        0        0        0        0        0        0        0        0        0  -0.2180  -0.2180        0        0        0        0        0        0        0        0        0        0        0        0        0   0.2180        0        0        0        0        0   0.2180        0        0        0        0
+        0        0        0        0   0.2743  -0.2743        0        0        0        0        0        0        0        0        0        0   0.0322   0.0322        0        0        0        0  -0.1947   0.1947  -0.2743        0  -0.0322   0.1947        0  -0.1925   0.2743        0  -0.0322  -0.1947   0.1925        0
+        0        0        0        0  -0.2134  -0.2134        0        0        0        0        0        0        0        0        0        0  -0.1947   0.1947        0        0        0        0  -0.0665  -0.0665   0.2134        0   0.1947   0.0665        0        0   0.2134        0  -0.1947   0.0665        0        0
+gammaAB_RA
+        0        0        0        0        0        0        0        0        0
+        0   4.0914  -4.0914  -4.0914        0  -2.9559   4.0914   2.9559        0
+        0  -3.1833  -3.1833   3.1833        0        0   3.1833        0        0
+gradient (Nuclear part)
+         0         0         0
+         0  -42.8187   42.8187
+  -61.4244   30.7122   30.7122
+gradient (Electron part)
+  -3.5388e-15   3.6348e-15  -9.5993e-17
+  -1.6098e-14   3.9477e+01  -3.9477e+01
+   5.6551e+01  -2.8276e+01  -2.8276e+01
+gradient
+  -3.5388e-15   3.6348e-15  -9.5993e-17
+  -1.6098e-14  -3.3416e+00   3.3416e+00
+  -4.8730e+00   2.4365e+00   2.4365e+00
+
+If I use finite difference, change the x coordinate of second atom:
+The molecule in file ../sample_input/H2O.txt has energy -538.022172
+Nuclear Repulsion Energy is 190.2693896 eV.
+Electron Energy is -728.2916192 eV.
+The molecule in file ../sample_input/H2O.txt has energy -538.022230
+Nuclear Repulsion Energy is 190.2693896 eV.
+Electron Energy is -728.2916192 eV.
+The molecule in file ../sample_input/H2O.txt has energy -538.022230
+The molecule has gradient 0.000000

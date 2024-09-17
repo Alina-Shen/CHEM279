@@ -1,0 +1,1 @@
+1d numerical overlap integral between Gaussian functions is -1.75131150074330832e-01

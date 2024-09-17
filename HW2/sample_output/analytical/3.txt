@@ -1,0 +1,13 @@
+Shell 1 has 6 functions.
+This shell info: R( 0.00, 0.00, 0.00), with angular momentum: 2, coefficient: 1.00
+Shell 2 has 3 functions.
+This shell info: R( 1.00, 1.00, 0.00), with angular momentum: 1, coefficient: 0.50
+Overlap integral between Shell 1 and Shell 2
+  -0.1153  -0.4611        0
+   0.0576   0.0576        0
+        0        0   0.1729
+  -0.4611  -0.1153        0
+        0        0   0.1729
+  -0.3458  -0.3458        0
+The components of angular momentum (l, m, n) for the matrix column, from top to bottom, are listed sequentially as: (2, 0, 0), (1, 1, 0), (1, 0, 1), (0, 2, 0), (0, 1, 1), (0, 0, 2).
+The components of angular momentum (l, m, n) for the matrix row, from left to right, are listed sequentially as: (1, 0, 0), (0, 1, 0), (0, 0, 1).

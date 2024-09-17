@@ -1,0 +1,16 @@
+Overlap matrix:
+   1.0000   0.6599
+   0.6599   1.0000
+Hamiltonian matrix
+  -13.6000  -15.7050
+  -15.7050  -13.6000
+X_mat
+   1.2454  -0.4692
+  -0.4692   1.2454
+MO coefficients (C matrix):
+   0.5488  -1.2125
+   0.5488   1.2125
+MO overlap matrix:
+   1.0000        0
+        0   1.0000
+The molecule in file ../sample_input/H2.txt has energy -35.309897
